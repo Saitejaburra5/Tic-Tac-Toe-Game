@@ -1,16 +1,17 @@
-<h1> Amazon Clone</h1>
+<h1>Tic Tac Toe Game</h1>
 
 <h3>Overview</h3>
-<p>This project is a clone of the Amazon website, created using HTML and CSS. The aim of this project is to replicate the look and feel of the Amazon website to practice front-end development skills.
+<p>This project is a simple Tic Tac Toe game created using HTML, CSS, and JavaScript. The objective of this project is to provide a fun and interactive game while practicing front-end development skills.
 </p>
 
 <h3>Features</h3>
-<p> <h5>Homepage:</h5> A main landing page with featured products.</p>
-<p> <h5>Product Listings:</h5> Displaying products in various categories.</p>
-<p> <h5>Product Details:</h5> Detailed information about each product.</p>
-<p> <h5>Search Functionality:</h5> A search bar to find products.</p>
-<p> <h5>Responsive Design:</h5> Optimized for both desktop and mobile devices.</p>
+<p> <b>Interactive Gameplay:</b> Play Tic Tac Toe against another player.</p>
+<p> <b>Responsive Design:</b> Optimized for both desktop and mobile devices.</p>
+<p> <b>Simple and Clean UI:</b> Easy-to-use interface with a clean design.</p>
+<p> <b>Winning Logic:</b> Highlights the winning combination.</p>
+
 
 <h3>Technologies Used</h3>
 <p> - HTML </p>
 <p> - CSS </p>
+<p> - JavaScript </p>
