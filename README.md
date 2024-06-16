@@ -15,3 +15,12 @@
 <p> - HTML </p>
 <p> - CSS </p>
 <p> - JavaScript </p>
+
+<h3> Usage </h3>
+<p>Clone the repository, then open the index.html file in your web browser to view the website. </p>
+
+<h3>Contributing</h3>
+<p>Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. 
+Don't forget to give the project a star! Thanks again!</p>
